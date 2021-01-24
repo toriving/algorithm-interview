@@ -5,5 +5,9 @@
 1. 코딩인터뷰  
 2. 프로그래밍 언어 선택
 
+
+## 부록A
+- 회사 및 이직 가이드
+
 ## Reference
 https://github.com/onlybooks/algorithm-interview 
