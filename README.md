@@ -19,7 +19,7 @@
 
 ## 3부
 7. [두수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_두수의_합.ipynb)
-8. [빗물 트래핑](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_빗물_트래핑.ipynb)
+8. [빗물 트래핑](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_빗물_트래핑.ipynb) 🔥
 
 ## 부록 A
 - 회사 및 이직 가이드
