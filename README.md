@@ -18,12 +18,13 @@
     - [가장 긴 팰린드롬 부분 문자열](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/2%EB%B6%80/6장_문자열_조작_가장_긴_팰린드롬_부분_문자열.ipynb)
 
 ## 3부
-7. [두수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_두수의_합.ipynb)
-8. [빗물 트래핑](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_빗물_트래핑.ipynb) 🔥
-9. [세 수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/9장_세_수의_합.ipynb) 🔥
-10. [배열 파티션](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/10장_배열_파티션_1.ipynb) 
-11. [자신을 제외한 배열의 곱](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/11장_자신을_제외한_배열의_곱.ipynb) 🔥
-12. [주식을 사고팔기 가장 좋은 시점](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/12장_주식을_사고팔기_가장_쫗은_시점.ipynb)
+7. 선형 자료 구조
+    - [두수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_두수의_합.ipynb)
+    - [빗물 트래핑](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_빗물_트래핑.ipynb) 🔥
+    - [세 수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_세_수의_합.ipynb) 🔥
+    - [배열 파티션](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_배열_파티션_1.ipynb) 
+    - [자신을 제외한 배열의 곱](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_자신을_제외한_배열의_곱.ipynb) 🔥
+    - [주식을 사고팔기 가장 좋은 시점](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_주식을_사고팔기_가장_쫗은_시점.ipynb)
 
 ## 부록 A
 - 회사 및 이직 가이드
