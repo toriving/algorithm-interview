@@ -24,7 +24,7 @@
     - [세 수의 합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_세_수의_합.ipynb) 🔥
     - [배열 파티션](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_배열_파티션_1.ipynb) 
     - [자신을 제외한 배열의 곱](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_자신을_제외한_배열의_곱.ipynb) 🔥
-    - [주식을 사고팔기 가장 좋은 시점](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_주식을_사고팔기_가장_쫗은_시점.ipynb)
+    - [주식을 사고팔기 가장 좋은 시점](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_주식을_사고팔기_가장_좋은_시점.ipynb)
 8. 연결 리스트
     - [팰린드롬 연결 리스트](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_팰린드롬_연결_리스트.ipynb)
 
