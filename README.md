@@ -27,7 +27,8 @@
     - [주식을 사고팔기 가장 좋은 시점](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/7장_선형_자료_구조_주식을_사고팔기_가장_좋은_시점.ipynb)
 8. 연결 리스트
     - [팰린드롬 연결 리스트](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_팰린드롬_연결_리스트.ipynb)
-
+    - [두 정렬 리스트의 병합](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_두_정렬_리스트의_병합.ipynb)
+    
 ## 부록 A
 - 회사 및 이직 가이드
 
