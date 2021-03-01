@@ -32,6 +32,7 @@
     - [두 수의 덧셈](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_두_수의_덧셈.ipynb)
     - [페어의 노드 스왑](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_페어의_노드_스왑.ipynb)
     - [홀짝 연결 리스트](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_홀짝_연결_리스트.ipynb)
+    - [역순 연결 리스트 2](https://nbviewer.jupyter.org/github/toriving/algorithm-interview/blob/main/3%EB%B6%80/8장_연결_리스트_역순_연결_리스트_2.ipynb) 🔥
     
 ## 부록 A
 - 회사 및 이직 가이드
